@@ -60,10 +60,6 @@ This course covers essential concepts including random number generation, statis
 
 ## References & Learning Materials
 
-**Recommended Materials:**
-
-* Lecture notes and necessary documents (Uploaded in Google Classroom).
-
 **Textbooks:**
 
 1. Sweigart, A. (2020). *Automate the boring stuff with Python: Practical programming for total beginners* (2nd ed.). No Starch Press.
@@ -77,6 +73,9 @@ This course covers essential concepts including random number generation, statis
 * [NumPy Documentation](https://numpy.org/doc/stable/)
 * [SciPy Documentation](https://docs.scipy.org/doc/scipy/)
 * [Matplotlib Documentation](https://matplotlib.org/stable/contents.html)
+
+**Learning Materials:**
+
 * [Overview](https://www.google.com/search?q=%23overview)
 * [Requirements & Installation](https://www.google.com/search?q=%23requirements--installation)
 * [Usage](https://www.google.com/search?q=%23usage)
