@@ -17,13 +17,11 @@ Welcome to the course repository for the **Simulation & Modeling Lab**. This cou
 
 * **Audity Ghosh** – Lecturer
 * *Email:* audity.ghosh@uits.edu.bd
-* *Phone:* +8801755627979
 * *Specialization:* Machine Learning, Deep Learning, Computer Vision, Generative Adversarial Networks.
 
 
 * **Afroja Ahmed Smrity** – Lecturer
 * *Email:* afroja.ahmed@uits.ac.bd
-* *Phone:* +881889693671
 * *Specialization:* Front-end Web Developer, Machine Learning, Federated Learning, Large Language Model (LLM).
 
 
