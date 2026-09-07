@@ -23,7 +23,7 @@ Welcome to the course repository for the **Simulation & Modeling Lab**. This cou
 
 * **Afroja Ahmed Smrity** – Lecturer
 * *Email:* afroja.ahmed@uits.ac.bd
-* *Phone:* +8801755627979
+* *Phone:* +881889693671
 * *Specialization:* Front-end Web Developer, Machine Learning, Federated Learning, Large Language Model (LLM).
 
 
